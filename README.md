@@ -1,10 +1,9 @@
-:spiral_calendar: Atualizado em 01 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 02 de Março de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Bootcamp DIO HTML WEB DEVELOPER 
-# Projeto 02 - 
-Recriando a Interface do Netflix
+# Projeto 02 - Recriando a Interface do Netflix
 Este projeto foi proposto pela Digital Innovation One no Bootcamp HTML WEB Developer.
 Link do código original: https://github.com/SpruceGabriela/instagram-dio
 
