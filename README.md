@@ -24,4 +24,12 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 - Implementar back-end ou api para não ser estático
 
 # Exemplos de telas
-- ajustar as telas de exemplo
+
+## Tela INICIAL
+<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-index.jpeg" />
+
+## Tela TRAILLERS
+<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpeg" />
+
+## Tela MAIS INFORMAÇÕES
+<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpeg" />
