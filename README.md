@@ -11,8 +11,17 @@ Link do código original: https://github.com/felipeAguiarCode/netflix-clone
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
 # Melhorias implementadas
-- ????
+- Obtive outras imagens do site TMDB https://www.themoviedb.org/?language=pt-BR
+- Crie pastas para segregar as imagens por página do site
+- Arredondei as bordas dos botões (inclusive no hover)
+- Coloquei link no botão assistir agora para ativar página de "traillers"
+- Criei página de "traillers" para exibir quatro "traillers" do YouTube
+- Configurei OWL para "traillers" e "info"
+- Coloquei link no botão "Início" do menu superior para chamar o "index.html"
+- Coloquei link no logotipo NETFLIX do menu superior para chamar o "index.html"
+
+# Melhorias futuras
+- Implementar back-end ou api para não ser estático
 
 # Exemplos de telas
 - ajustar as telas de exemplo
-
